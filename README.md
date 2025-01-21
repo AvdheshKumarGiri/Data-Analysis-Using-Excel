@@ -1,1 +1,1 @@
-# Data-Analysis-Using-Excel
+This project involves analyzing sales, inventory, and customer data for Vrinda Store using Excel. The goal is to extract insights that can aid in decision-making and improve overall performance. Key areas of focus include sales trends, customer behavior, inventory management, and regional performance.
